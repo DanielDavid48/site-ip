@@ -6,7 +6,7 @@ html, body {
     height: 100%;
     margin: 0%;
     padding: 0%;
-    background-color: #00415D;
+    background-color: #b84a02;
     font-family: 'Merriweather Sans', sans-serif;
 }
 
@@ -30,7 +30,7 @@ a {
 
 .btnGoHome {
     width: 50%;
-    background-color: #07276E;
+    background-color: #7a3303;
     color: white;
 }
   
